@@ -2,14 +2,14 @@
 
 
 
-- 🔭 Currently I work programming in Java, Jsf, Sql Server, Javascript for an institution that works with digital certificates, and 🌱I'm learning node.js, sequelize, react, and specializing even more in spring and its correlates. 👯I'm looking for a better opportunity where i can collaborate with my skills and learn new things. As I mentioned above, today I'm working with Java, Jsf and JavaScript, but I've also had other experiences using the same stacks, with the exception of Java, it was Php at the time. About me, 💬 i'm a person who likes to be delayed, and who loves to work in a team, I believe it makes tasks more productive and everyone wins. I also like to give ideas on the projects I participate in and somehow, I always try to collaborate!!
+- 🔭 Currently I work programming in Java, Jsf, Sql Server, Javascript for an institution that works with digital certificates, and 🌱I'm learning node.js, sequelize, react, and specializing even more in spring and its correlates. 👯I'm looking for a better opportunity where i can collaborate with my skills and learn new things. As I mentioned above, today I'm working with Java, Jsf and JavaScript, but I've also had other experiences using the same stacks, with the exception of Java, it was Php at the time. About me, 💬 i'm a person who likes to be challenges, and who loves to work in a team, I believe it makes tasks more productive and everyone wins. I also like to give ideas on the projects I participate in and somehow, I always try to collaborate!!
 
 - ⚡ Fun fact: 
     - I like reading 
     - Football
     - Learning
     - Travels
-    - Help my family 
+    
 
 <br /><br /><br />
 
