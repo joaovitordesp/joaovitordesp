@@ -2,13 +2,47 @@
 
 
 
-- Currently, I work as a backend engineer, utilizing Nodejs, Typescript, JavaScript, Java, Spring Boot, SQL, Microservices, and AWS.
+I am a backend-focused Software Engineer, 6+ years experience, with expertise in technologies such as Node.js, JavaScript, TypeScript, Java, Spring and AWS. I have solid experience in the banking industry, where I apply my skills to create robust and scalable solutions. Throughout my career, I have been actively involved in designing and implementing complex systems, leveraging AWS services like ECS, S3, CloudWatch, DynamoDB, Lambda, API Gateway, AWS Batch, and SNS to deliver high-performance solutions.
 
-- I hold a degree in Systems Analysis and Development from College Projeção, where I gained a strong foundation in software engineering concepts and agile development. In addition to my professional work, I dedicate my free time to continuous learning, exploring new technologies, and refining my skills through personal projects. I maintain an active profile on GitHub (https://github.com/joaovitordesp), where I share my code and contribute to developer communities.
+Currently, I work as a backend engineer, utilizing Nodejs, Typescript, JavaScript, Java, Spring Boot, SQL, Microservices, and AWS.
 
-- In addition to my technical skills, I am recognized for my ability to collaborate effectively in multidisciplinary teams. I possess strong communication skills and am known for my proactive approach to problem-solving. I am committed to delivering high-quality results, prioritizing transparency and effective communication at all levels. My adaptability and quick learning ability enable me to tackle new challenges with confidence, while my passion for learning and teaching strengthens my role as an active and engaged team member.
+I hold a degree in Systems Analysis and Development from College Projeção, where I gained a strong foundation in software engineering concepts and agile development. In addition to my professional work, I dedicate my free time to continuous learning, exploring new technologies, and refining my skills through personal projects. I maintain an active profile on GitHub (https://github.com/joaovitordesp), where I share my code and contribute to developer communities.
 
-Node.js | Java | Spring | JavaScript | Typescript | Hibernate | JPA | AWS | Docker | SQL | Postgresl | HeidSQL
+In addition to my technical skills, I am recognized for my ability to collaborate effectively in multidisciplinary teams. I possess strong communication skills and am known for my proactive approach to problem-solving. I am committed to delivering high-quality results, prioritizing transparency and effective communication at all levels. My adaptability and quick learning ability enable me to tackle new challenges with confidence, while my passion for learning and teaching strengthens my role as an active and engaged team member.
+
+Technical Abilities:
+- Nodejs
+- Typescript
+- Javascript
+- Java
+- Spring Framework (Spring boot, Spring MVC, Spring Security, Spring Data)
+- Hibernate
+- JPA
+- JDBC
+- Vite
+- JUnit
+- AWS ( S3, Cloudwatch, ECS, SNS/SQS, Api Gateway, DynamoDB)
+- MySQL, Postgresql, MongoDB
+- Docker
+- RESTful API;
+- REST
+- Maven;
+- Apache Tomcat;
+- Microservices;
+- Git (and versioning tools like GitHub and GitLab);
+- IntelliJ IDEA (IDE for Java development);
+- STS (Spring Tools Suite 4)
+- Scrum;
+- Postman (for API testing);
+- Insomnia (for API testing);
+
+Personal Qualities:
+- Proactive
+- Communicative
+- Problem Solver
+- Quick Leaner
+- Teamatte
+- Organized
 
 <br />
 
