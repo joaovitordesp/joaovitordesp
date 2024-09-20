@@ -6,7 +6,7 @@ I am a backend-focused Software Engineer, 6+ years experience, with expertise in
 
 Currently, I work as a backend engineer, utilizing Nodejs, Typescript, JavaScript, Java, Spring Boot, SQL, Microservices, and AWS.
 
-I hold a degree in Systems Analysis and Development from College Projeção, where I gained a strong foundation in software engineering concepts and agile development. In addition to my professional work, I dedicate my free time to continuous learning, exploring new technologies, and refining my skills through personal projects. I maintain an active profile on GitHub (https://github.com/joaovitordesp), where I share my code and contribute to developer communities.
+I hold a degree in Systems Analysis and Development from College Projeção, where I gained a strong foundation in software engineering concepts and agile development. In addition to my professional work, I dedicate my free time to continuous learning, exploring new technologies, and refining my skills through personal projects. 
 
 In addition to my technical skills, I am recognized for my ability to collaborate effectively in multidisciplinary teams. I possess strong communication skills and am known for my proactive approach to problem-solving. I am committed to delivering high-quality results, prioritizing transparency and effective communication at all levels. My adaptability and quick learning ability enable me to tackle new challenges with confidence, while my passion for learning and teaching strengthens my role as an active and engaged team member.
 
