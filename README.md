@@ -2,9 +2,9 @@
 
 
 
-I am a backend-focused Software Engineer, 6+ years experience, with expertise in technologies such as Node.js, JavaScript, TypeScript, Java, Spring and AWS. I have solid experience in the banking industry, where I apply my skills to create robust and scalable solutions. Throughout my career, I have been actively involved in designing and implementing complex systems, leveraging AWS services like ECS, S3, CloudWatch, DynamoDB, Lambda, API Gateway, AWS Batch, and SNS to deliver high-performance solutions.
+I am a backend-focused Software Engineer, 6+ years experience, with expertise in technologies such as Node.js, Java, Golang, Spring and AWS. I have solid experience in the banking industry, ecommerce and governmental systems, where I apply my skills to create robust and scalable solutions. Throughout my career, I have been actively involved in designing and implementing complex systems, leveraging AWS services like ECS, S3, CloudWatch, DynamoDB, Lambda, API Gateway, AWS Batch, and SNS to deliver high-performance solutions.
 
-Currently, I work as a backend engineer, utilizing Nodejs, Typescript, JavaScript, Java, Spring Boot, SQL, Microservices, and AWS.
+Currently, I work as a backend engineer, utilizing Nodejs, Java, Spring Boot, SQL, Microservices, and AWS.
 
 I hold a degree in Systems Analysis and Development from College Projeção, where I gained a strong foundation in software engineering concepts and agile development. In addition to my professional work, I dedicate my free time to continuous learning, exploring new technologies, and refining my skills through personal projects. 
 
@@ -12,6 +12,7 @@ In addition to my technical skills, I am recognized for my ability to collaborat
 
 Technical Abilities:
 - Nodejs
+- Golang
 - Typescript
 - Javascript
 - Java
