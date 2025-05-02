@@ -1,14 +1,34 @@
-### Hi!!👋👋👋  My name is João Vitor, I'm 25 years old!! Find out more about me and my skills below! 
+### Hi!!👋👋👋  My name is João Vitor, I'm 26 years old!! Find out more about me and my skills below! 
 
 
 
-I am a backend-focused Software Engineer, 6+ years experience, with expertise in technologies such as Node.js, Java, Golang, Spring and AWS. I have solid experience in the banking industry, ecommerce and governmental systems, where I apply my skills to create robust and scalable solutions. Throughout my career, I have been actively involved in designing and implementing complex systems, leveraging AWS services like ECS, S3, CloudWatch, DynamoDB, Lambda, API Gateway, AWS Batch, and SNS to deliver high-performance solutions.
+I am a backend-focused Software Engineer with over 6 years of experience, specializing in technologies such as Node.js, TypeScript, Java (Spring Framework), and AWS. I have strong expertise in the banking industry, where I build robust and scalable systems that support critical operations.
 
-Currently, I work as a backend engineer, utilizing Nodejs, Java, Spring Boot, SQL, Microservices, and AWS.
+Currently, I work as a backend engineer, applying technologies like Node.js, TypeScript, JavaScript, Java (Spring Boot), SQL, and AWS to develop APIs, microservices, and data pipelines. I integrate complex APIs and optimize workflows to deliver efficient, high-quality solutions.
 
-I hold a degree in Systems Analysis and Development from College Projeção, where I gained a strong foundation in software engineering concepts and agile development. In addition to my professional work, I dedicate my free time to continuous learning, exploring new technologies, and refining my skills through personal projects. 
+I hold a degree in Systems Analysis and Development from College Projeção, where I built a solid foundation in software engineering and agile practices. Outside of work, I’m passionate about continuous learning and personal projects, which I share on GitHub: github.com/joaovitordesp.
 
-In addition to my technical skills, I am recognized for my ability to collaborate effectively in multidisciplinary teams. I possess strong communication skills and am known for my proactive approach to problem-solving. I am committed to delivering high-quality results, prioritizing transparency and effective communication at all levels. My adaptability and quick learning ability enable me to tackle new challenges with confidence, while my passion for learning and teaching strengthens my role as an active and engaged team member.
+Key Achievements:
+🚀 Boosted performance by 280% after refactoring a slow batch process by optimizing queries and isolating business logic. Delivered the solution in 21 days (vs. 30 days estimated).
+
+📈 Increased physical product sales by 40% by creating a batch system for physical title campaigns, previously digital-only.
+
+🧱 Modernized legacy infrastructure by developing an AWS Lambda to automate client inclusion in bank service packages.
+
+I’m recognized for being proactive, communicative, and a problem-solver. I enjoy collaborating in agile teams, value clean and maintainable code, and aim to deliver impactful solutions.
+
+Tech Skills:
+Languages: Node.js, TypeScript, JavaScript, Java, Golang
+
+Frameworks: Spring Boot, Spring MVC, Express, Next, Gin Spring Security, Spring Data, Hibernate, JPA
+
+Cloud & DevOps: AWS (Lambda, ECS, S3, CloudWatch, SNS, SQS, API Gateway, DynamoDB), Docker
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Tools: Maven, JDBC, Vite, JUnit, Git (GitHub, GitLab), Postman, Insomnia, IntelliJ, STS
+
+Concepts: Microservices, RESTful APIs, Solid, DDD, Agile (SCRUM), Clean Code
 
 Technical Abilities:
 - Nodejs
