@@ -2,7 +2,7 @@
 
 
 
-I am a backend-focused Software Engineer with over 6 years of experience, specializing in technologies such as Node.js, TypeScript, Java (Spring Framework), and AWS. I have strong expertise in the banking industry, where I build robust and scalable systems that support critical operations.
+I am a backend-focused Software Engineer with over 5 years of experience, specializing in technologies such as Node.js, TypeScript, Java (Spring Framework), and AWS. I have strong expertise in the banking industry, where I build robust and scalable systems that support critical operations.
 
 Currently, I work as a backend engineer, applying technologies like Node.js, TypeScript, JavaScript, Java (Spring Boot), SQL, and AWS to develop APIs, microservices, and data pipelines. I integrate complex APIs and optimize workflows to deliver efficient, high-quality solutions.
 
